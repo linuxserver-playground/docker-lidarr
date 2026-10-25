@@ -64,6 +64,7 @@ runtime:
 docs:
   categories:
   - Media Management
+  - Music
   logo: https://github.com/lidarr/Lidarr/blob/develop/Logo/400.png
   setup: |
     Access the webui at `<your-ip>:8686`, for more information check out [Lidarr](https://github.com/lidarr/Lidarr).
